@@ -12,6 +12,8 @@ import {
   IBM_Plex_Sans,
 } from "next/font/google";
 
+
+
 type Props = {
   subset: string | string[];
   weight: string | string[];
